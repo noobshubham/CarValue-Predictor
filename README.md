@@ -82,7 +82,7 @@ carvalue-predictor/
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/carvalue-predictor.git
+git clone https://github.com/noobshubham/carvalue-predictor.git
 cd carvalue-predictor
 ```
 
@@ -105,8 +105,8 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
-API: http://127.0.0.1:8000  
-Docs: http://127.0.0.1:8000/docs
+API: https://carvalue-predictor.onrender.com  
+Docs: https://carvalue-predictor.onrender.com/docs
 
 ---
 
