@@ -78,6 +78,13 @@ carvalue-predictor/
 
 ---
 
+## 🌐 Live Demo
+
+- **Frontend (Streamlit UI):** https://carvalue-prediction.streamlit.app/
+- **Backend (Render):** https://carvalue-predictor.onrender.com/docs
+
+---
+
 ## ⚙️ Setup & Run
 
 ### Clone the repository
@@ -105,8 +112,8 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
-API: https://carvalue-predictor.onrender.com  
-Docs: https://carvalue-predictor.onrender.com/docs
+API: http://127.0.0.1:8000  
+Docs: http://127.0.0.1:8000/docs
 
 ---
 
